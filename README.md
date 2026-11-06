@@ -63,6 +63,12 @@ Run the application:
 streamlit run app.py
 ```
 
+## Live Demo
+
+You can try the application here:
+
+[Student Score Prediction – Live Demo](https://student-score-predictionn.streamlit.app/)
+
 ## Author
 
 Gülsün Çiftçi
